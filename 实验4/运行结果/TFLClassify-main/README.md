@@ -39,7 +39,6 @@ androidx.recyclerview:recyclerview:1.1.0	结果显示列表
 快速开始
 1. 克隆仓库
 bash
-git clone https://github.com/your-org/tflite-flower-classification.git
 2. 导入项目
 用 Android Studio 打开项目根目录，等待 Gradle 同步完成。
 
